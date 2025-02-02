@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 This repository contains a Power BI report designed to analyze and visualize sales performance and profit performance of a made up retail company called Tailwind Traders  
-<embed src="https://github.com/user-attachments/files/18634701/Tailwind.Traders.Report.pdf" width="800px" height="600px" />
+<embed src="https://github.com/user-attachments/files/18634701/Tailwind.Traders.Report.pdf" width="8000px" height="6000px" />
 
 
 ## 🏗 Report Features
