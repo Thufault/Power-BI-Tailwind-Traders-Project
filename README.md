@@ -2,8 +2,8 @@
 
 ## 📊 Overview
 This repository contains a Power BI report designed to analyze and visualize sales performance and profit performance of a made up retail company called Tailwind Traders  
-<embed src="https://github.com/user-attachments/files/18634701/Tailwind.Traders.Report.pdf" width="8000px" height="6000px" />
-
+![Tailwind Traders Report-1](https://github.com/user-attachments/assets/ea189d15-a874-45a6-8bb2-1ffedc38ddaa)
+![Tailwind Traders Report-2](https://github.com/user-attachments/assets/525c7b2d-55f2-41d4-9f93-3a5178d7f657)
 
 ## 🏗 Report Features
 - **Sales Overview** – Loyalty points by Country, Real-Time Inventory Tracking Count, Median Sales, Real-Time Quantity Puchased, Quantity Sold by Product, Median Sales Distribution by Country Name, Median Sales Overtime (w/ Forcast), Country Slicer
